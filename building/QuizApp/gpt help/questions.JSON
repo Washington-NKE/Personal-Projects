@@ -1,0 +1,12 @@
+[
+    {
+        "question": "Which organelle is known as the powerhouse of the cell?",
+        "options": ["Nucleus", "Ribosome", "Mitochondrion", "Endoplasmic Reticulum"],
+        "answer": "Mitochondrion"
+    },
+    {
+        "question": "What is the basic unit of heredity?",
+        "options": ["Gene", "Chromosome", "DNA", "Protein"],
+        "answer": "Gene"
+    }
+]

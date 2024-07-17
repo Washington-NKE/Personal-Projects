@@ -1,0 +1,1997 @@
+INTRODUCTION TO biology
+
+Question 1: Definition and Scope
+Q1. What is biology primarily concerned with?
+
+A) Studying rocks and minerals
+B) Exploring outer space
+C) Understanding living organisms
+D) Analyzing weather patterns
+Answer: C) Understanding living organisms
+
+Question 2: Cell Theory
+Q2. Which statement best describes the cell theory?
+
+A) Cells are only found in animals.
+B) All living organisms are composed of cells.
+C) Cells can only reproduce asexually.
+D) Cells are not affected by their environment.
+Answer: B) All living organisms are composed of cells.
+
+Question 3: Levels of Biological Organization
+Q3. Which level of biological organization includes all other levels?
+
+A) Organ system
+B) Organism
+C) Cell
+D) Ecosystem
+Answer: B) Organism
+
+Question 4: Scientific Method
+Q4. Which step of the scientific method involves making predictions based on observations?
+
+A) Experimentation
+B) Hypothesis
+C) Analysis
+D) Conclusion
+Answer: B) Hypothesis
+
+Question 5: Basic Molecules of Life
+Q5. What are the building blocks of proteins?
+
+A) Amino acids
+B) Nucleotides
+C) Fatty acids
+D) Monosaccharides
+Answer: A) Amino acids
+
+Question 6: Genetics
+Q6. What molecule carries genetic information in cells?
+
+A) Lipids
+B) Proteins
+C) DNA
+D) Carbohydrates
+Answer: C) DNA
+
+Question 7: Evolution
+Q7. Which process explains how species change over time?
+
+A) Natural selection
+B) Genetic engineering
+C) Cell division
+D) Photosynthesis
+Answer: A) Natural selection
+
+Question 8: Classification of Organisms
+Q8. What is the scientific name for the modern system of naming organisms?
+
+A) Taxonomy
+B) Classification
+C) Binomial nomenclature
+D) Phylogenetics
+Answer: C) Binomial nomenclature
+
+Question 9: Photosynthesis
+Q9. What is the primary source of energy for photosynthesis?
+
+A) Water
+B) Oxygen
+C) Carbon dioxide
+D) Sunlight
+Answer: D) Sunlight
+
+Question 10: Ecology
+Q10. Which level of ecological organization involves all biotic and abiotic factors in a particular area?
+
+A) Ecosystem
+B) Community
+C) Population
+D) Biosphere
+Answer: A) Ecosystem
+
+
+CLASSIFICATION 
+
+Question 1: Taxonomy and Classification
+Q1. What is taxonomy?
+
+A) The study of ancient civilizations
+B) The study of classification and naming of organisms
+C) The study of weather patterns
+D) The study of outer space
+Answer: B) The study of classification and naming of organisms
+
+Question 2: Binomial Nomenclature
+Q2. Who developed the system of binomial nomenclature?
+
+A) Gregor Mendel
+B) Carl Linnaeus
+C) Charles Darwin
+D) Alfred Wallace
+Answer: B) Carl Linnaeus
+
+Question 3: Levels of Classification
+Q3. Which is the correct hierarchy of biological classification from broadest to most specific?
+
+A) Kingdom, Phylum, Class, Order, Family, Genus, Species
+B) Phylum, Kingdom, Class, Order, Family, Genus, Species
+C) Kingdom, Phylum, Order, Class, Family, Genus, Species
+D) Species, Genus, Family, Order, Class, Phylum, Kingdom
+Answer: A) Kingdom, Phylum, Class, Order, Family, Genus, Species
+
+Question 4: Scientific Names
+Q4. Which part of a scientific name is capitalized?
+
+A) The genus name
+B) The species name
+C) Both the genus and species names
+D) Neither the genus nor species names
+Answer: A) The genus name
+
+Question 5: Kingdoms of Life
+Q5. Which kingdom includes organisms that are multicellular, eukaryotic, and capable of photosynthesis?
+
+A) Animalia
+B) Plantae
+C) Fungi
+D) Protista
+Answer: B) Plantae
+
+Question 6: Classifying Organisms
+Q6. What is the correct order of classification for humans?
+
+A) Animalia, Chordata, Mammalia, Primates, Hominidae, Homo sapiens
+B) Homo sapiens, Hominidae, Primates, Mammalia, Chordata, Animalia
+C) Mammalia, Chordata, Primates, Hominidae, Homo sapiens, Animalia
+D) Chordata, Mammalia, Primates, Hominidae, Homo sapiens, Animalia
+Answer: A) Animalia, Chordata, Mammalia, Primates, Hominidae, Homo sapiens
+
+Question 7: Phylogenetic Relationships
+Q7. What is used to show evolutionary relationships among organisms?
+
+A) Dichotomous keys
+B) Cladograms
+C) Taxonomic keys
+D) Phylogenetic trees
+Answer: D) Phylogenetic trees
+
+Question 8: Taxonomic Levels
+Q8. Which taxonomic level is broader than class but narrower than kingdom?
+
+A) Family
+B) Order
+C) Phylum
+D) Genus
+Answer: C) Phylum
+
+Question 9: Dichotomous Keys
+Q9. What are dichotomous keys used for in biology?
+
+A) To classify organisms based on physical characteristics
+B) To determine genetic mutations in organisms
+C) To measure ecological diversity
+D) To study geological formations
+Answer: A) To classify organisms based on physical characteristics
+
+Question 10: Evolutionary Classification
+Q10. Which classification system groups organisms based on their evolutionary history and genetic similarities?
+
+A) Phenetic classification
+B) Linnaean classification
+C) Evolutionary taxonomy
+D) Molecular taxonomy
+Answer: C) Evolutionary taxonomy
+
+3. THE CELL 
+
+
+Questions on Cells and Cell Theory
+Q1. Who proposed the cell theory?
+
+A) Charles Darwin
+B) Gregor Mendel
+C) Robert Hooke
+D) Louis Pasteur
+Answer: C) Robert Hooke
+
+Q2. What is the function of the cell membrane?
+
+A) Energy production
+B) Cell division
+C) Regulation of materials entering and leaving the cell
+D) Protein synthesis
+Answer: C) Regulation of materials entering and leaving the cell
+
+Q3. Which organelle is responsible for ATP production?
+
+A) Golgi apparatus
+B) Mitochondria
+C) Ribosomes
+D) Lysosomes
+Answer: B) Mitochondria
+
+Q4. What is the function of the Golgi apparatus?
+
+A) Protein synthesis
+B) Energy storage
+C) Modifying and packaging proteins
+D) Digestion of waste materials
+Answer: C) Modifying and packaging proteins
+
+Q5. Which structure controls the passage of materials into and out of the nucleus?
+
+A) Ribosomes
+B) Cell membrane
+C) Nucleolus
+D) Nuclear membrane
+Answer: D) Nuclear membrane
+
+Questions on Cellular Organelles
+Q6. Which organelle is involved in detoxification and lipid synthesis?
+
+A) Golgi apparatus
+B) Lysosomes
+C) Smooth Endoplasmic Reticulum
+D) Ribosomes
+Answer: C) Smooth Endoplasmic Reticulum
+
+Q7. What is the primary function of ribosomes?
+
+A) Protein synthesis
+B) Lipid synthesis
+C) ATP production
+D) Waste removal
+Answer: A) Protein synthesis
+
+Q8. Which organelle contains enzymes for digesting worn-out cell components?
+
+A) Mitochondria
+B) Golgi apparatus
+C) Lysosomes
+D) Nucleus
+Answer: C) Lysosomes
+
+Q9. Where are chloroplasts found in plant cells?
+
+A) Nucleus
+B) Cytoplasm
+C) Cell membrane
+D) Chloroplasts are not present in plant cells
+Answer: B) Cytoplasm
+
+Q10. What cellular structure is responsible for cellular locomotion in many organisms?
+
+A) Golgi apparatus
+B) Centrioles
+C) Smooth Endoplasmic Reticulum
+D) Nucleus
+Answer: B) Centrioles
+
+Questions on Tissues and Organs
+Q11. What type of tissue covers the surface of leaves and stems?
+
+A) Epidermal tissue
+B) Vascular tissue
+C) Xylem tissue
+D) Phloem tissue
+Answer: A) Epidermal tissue
+
+Q12. Which type of muscle tissue is involuntary and found in the walls of hollow organs?
+
+A) Cardiac muscle
+B) Skeletal muscle
+C) Smooth muscle
+D) Striated muscle
+Answer: C) Smooth muscle
+
+Q13. Which organ is primarily responsible for filtering blood in the human body?
+
+A) Liver
+B) Kidney
+C) Heart
+D) Lungs
+Answer: B) Kidney
+
+Q14. What is the main function of the human heart?
+
+A) Digestion
+B) Respiration
+C) Circulation
+D) Excretion
+Answer: C) Circulation
+
+Q15. What is the function of the human eye?
+
+A) Hearing
+B) Sight
+C) Balance
+D) Smell
+Answer: B) Sight
+
+Questions on Organ Systems
+Q16. Which organ system is responsible for transporting nutrients and oxygen throughout the body?
+
+A) Nervous system
+B) Respiratory system
+C) Circulatory system
+D) Digestive system
+Answer: C) Circulatory system
+
+Q17. What is the primary function of the respiratory system?
+
+A) Excretion of waste
+B) Regulation of body temperature
+C) Exchange of gases
+D) Digestion of food
+Answer: C) Exchange of gases
+
+Q18. Which organ system includes the brain and spinal cord?
+
+A) Nervous system
+B) Skeletal system
+C) Endocrine system
+D) Immune system
+Answer: A) Nervous system
+
+Q19. Which system is responsible for the breakdown and absorption of nutrients?
+
+A) Respiratory system
+B) Excretory system
+C) Digestive system
+D) Reproductive system
+Answer: C) Digestive system
+
+Q20. What is the function of the immune system?
+
+A) Transport of oxygen
+B) Protection against pathogens
+C) Regulation of body temperature
+D) Production of hormones
+Answer: B) Protection against pathogens
+
+4. CELL PHYSIOLOGY
+
+Cell Physiology Questions
+Q1. What is the primary function of the cell membrane?
+
+A) Energy production
+B) Regulation of cellular transport
+C) DNA replication
+D) Waste removal
+Answer: B) Regulation of cellular transport
+
+Q2. What property of the cell membrane allows it to regulate the passage of substances into and out of the cell?
+
+A) Rigidity
+B) Selective permeability
+C) Transparency
+D) Elasticity
+Answer: B) Selective permeability
+
+Q3. Which of the following is a function of the cell membrane?
+
+A) Protein synthesis
+B) ATP production
+C) Cell communication
+D) Waste digestion
+Answer: C) Cell communication
+
+Q4. What is the process by which molecules move from an area of high concentration to an area of low concentration, without the use of energy?
+
+A) Active transport
+B) Osmosis
+C) Diffusion
+D) Endocytosis
+Answer: C) Diffusion
+
+Q5. Which physiological process involves the movement of water across a selectively permeable membrane?
+
+A) Diffusion
+B) Active transport
+C) Osmosis
+D) Exocytosis
+Answer: C) Osmosis
+
+Q6. What happens to a plant cell placed in a hypertonic solution?
+
+A) It swells
+B) It undergoes plasmolysis
+C) It bursts
+D) It remains unchanged
+Answer: B) It undergoes plasmolysis
+
+Q7. Which physiological process requires energy to move molecules against their concentration gradient?
+
+A) Diffusion
+B) Osmosis
+C) Facilitated diffusion
+D) Active transport
+Answer: D) Active transport
+
+Q8. What is the primary role of active transport in cells?
+
+A) Maintaining osmotic balance
+B) Facilitating cell communication
+C) Generating ATP
+D) Transporting substances against their concentration gradient
+Answer: D) Transporting substances against their concentration gradient
+
+Q9. In which process do plant cells gain turgor pressure to maintain rigidity?
+
+A) Plasmolysis
+B) Deplasmolysis
+C) Wilting
+D) Haemolysis
+Answer: B) Deplasmolysis
+
+Q10. What physiological process occurs when red blood cells are placed in a hypotonic solution?
+
+A) Turgor pressure
+B) Plasmolysis
+C) Crenation
+D) Haemolysis
+Answer: D) Haemolysis
+
+
+
+5. NUTRITION IN PLANTS AND ANIMALS 
+
+Nutrition in Plants and Animals Questions
+Q1. What is the primary purpose of nutrition in living organisms?
+
+A) Growth and development
+B) ATP production
+C) Regulation of body temperature
+D) Cell communication
+Answer: A) Growth and development
+
+Q2. Which mode of feeding involves organisms that produce their own food using sunlight?
+
+A) Heterotrophism
+B) Carnivory
+C) Autotrophism
+D) Parasitism
+Answer: C) Autotrophism
+
+Q3. What is the process by which autotrophs convert sunlight into chemical energy?
+
+A) Chemosynthesis
+B) Respiration
+C) Photosynthesis
+D) Osmosis
+Answer: C) Photosynthesis
+
+Q4. Where does photosynthesis primarily occur in plant cells?
+
+A) Mitochondria
+B) Nucleus
+C) Chloroplasts
+D) Golgi apparatus
+Answer: C) Chloroplasts
+
+Q5. What are the requirements for photosynthesis to occur?
+
+A) Carbon dioxide and water
+B) Oxygen and glucose
+C) Chlorophyll and sunlight
+D) Starch and lipids
+Answer: A) Carbon dioxide and water
+
+Q6. During which stage of photosynthesis is oxygen released as a byproduct?
+
+A) Light-dependent stage
+B) Light-independent (Dark) stage
+C) Krebs cycle
+D) Glycolysis
+Answer: A) Light-dependent stage
+
+Q7. What factors affect the rate of photosynthesis?
+
+A) Light intensity
+B) Carbon dioxide concentration
+C) Water availability
+D) All of the above
+Answer: D) All of the above
+
+Q8. Which part of the leaf regulates gas exchange and water loss?
+
+A) Petiole
+B) Epidermis
+C) Stomata
+D) Mesophyll cells
+Answer: C) Stomata
+
+Q9. Which category of chemicals includes glucose, fructose, and galactose?
+
+A) Monosaccharides
+B) Disaccharides
+C) Polysaccharides
+D) Proteins
+Answer: A) Monosaccharides
+
+Q10. What is the main function of carbohydrates in living systems?
+
+A) Energy storage and structure
+B) Enzyme regulation
+C) Genetic information storage
+D) Cell membrane synthesis
+Answer: A) Energy storage and structure
+
+Q11. Which category of chemicals includes sucrose, lactose, and maltose?
+
+A) Monosaccharides
+B) Disaccharides
+C) Polysaccharides
+D) Proteins
+Answer: B) Disaccharides
+
+Q12. What is the function of enzymes in living organisms?
+
+A) Energy production
+B) DNA replication
+C) Catalyzing biochemical reactions
+D) Structural support
+Answer: C) Catalyzing biochemical reactions
+
+Q13. What factors influence the action of enzymes?
+
+A) Temperature and pH
+B) Oxygen concentration
+C) Light intensity
+D) Water availability
+Answer: A) Temperature and pH
+
+Q14. Which mode of feeding involves animals that consume only plant material?
+
+A) Herbivores
+B) Carnivores
+C) Omnivores
+D) Detritivores
+Answer: A) Herbivores
+
+Q15. What type of teeth do herbivores typically have for grinding plant material?
+
+A) Incisors and canines
+B) Canines and molars
+C) Premolars and molars
+D) Incisors and molars
+Answer: C) Premolars and molars
+
+Q16. Which digestive gland produces bile to aid in fat digestion?
+
+A) Pancreas
+B) Liver
+C) Gallbladder
+D) Salivary glands
+Answer: B) Liver
+
+Q17. What is the primary function of the large intestine in digestion?
+
+A) Absorption of nutrients
+B) Digestion of proteins
+C) Reabsorption of water
+D) Production of enzymes
+Answer: C) Reabsorption of water
+
+Q18. Which nutrient category includes vitamins A, C, and D?
+
+A) Carbohydrates
+B) Proteins
+C) Minerals
+D) Vitamins
+Answer: D) Vitamins
+
+Q19. What is the role of roughage in the diet?
+
+A) Provides essential amino acids
+B) Facilitates water absorption
+C) Aids in digestion and prevents constipation
+D) Supplies energy for cellular activities
+Answer: C) Aids in digestion and prevents constipation
+
+Q20. What determines the energy requirements of an individual?
+
+A) Age and gender
+B) Blood type
+C) Hair color
+D) Shoe size
+Answer: A) Age and gender
+
+
+
+6. TRANSPORT IN PLANTS 
+
+Transport in Plants Questions
+Q1. What is the primary role of xylem tissue in plants?
+
+A) Transport of sugars
+B) Transport of water and minerals
+C) Photosynthesis
+D) Protection against pathogens
+Answer: B) Transport of water and minerals
+
+Q2. What force primarily drives water movement from roots to leaves in plants?
+
+A) Osmosis
+B) Capillary action
+C) Transpiration pull
+D) Active transport
+Answer: C) Transpiration pull
+
+Q3. Which of the following is responsible for the movement of sugars from leaves to other parts of the plant?
+
+A) Phloem
+B) Epidermis
+C) Stomata
+D) Cortex
+Answer: A) Phloem
+
+Q4. What is the process by which water exits the plant through specialized pores in leaves?
+
+A) Photosynthesis
+B) Transpiration
+C) Osmosis
+D) Capillary action
+Answer: B) Transpiration
+
+Q5. Which part of the plant regulates the opening and closing of stomata?
+
+A) Xylem vessels
+B) Root hairs
+C) Guard cells
+D) Cortex
+Answer: C) Guard cells
+
+Q6. What is the movement of nutrients from phloem to cells requiring sugars called?
+
+A) Transpiration
+B) Translocation
+C) Osmosis
+D) Capillary action
+Answer: B) Translocation
+
+Q7. What is the main component of xylem tissue that provides structural support to plants?
+
+A) Sieve tubes
+B) Companion cells
+C) Vessels
+D) Fibers
+Answer: C) Vessels
+
+Q8. Which environmental factor affects the rate of transpiration in plants?
+
+A) Carbon dioxide concentration
+B) Temperature
+C) Soil pH
+D) Root pressure
+Answer: B) Temperature
+
+Q9. What is the process by which water and dissolved substances move across a plant's root cells into the xylem?
+
+A) Transpiration
+B) Translocation
+C) Osmosis
+D) Root pressure
+Answer: D) Root pressure
+
+Q10. Which structure in roots enhances the surface area for water and mineral absorption?
+
+A) Root cap
+B) Cortex
+C) Xylem vessels
+D) Root hairs
+Answer: D) Root hairs
+
+
+
+
+7. TRANSPORT IN ANIMALS 
+
+Q1. What is the primary function of the circulatory system in animals?
+
+A) Digestion of food
+B) Regulation of body temperature
+C) Transport of oxygen and nutrients
+D) Excretion of waste products
+Answer: C) Transport of oxygen and nutrients
+
+Q2. Which component of blood is primarily responsible for transporting oxygen?
+
+A) Red blood cells (Erythrocytes)
+B) White blood cells (Leukocytes)
+C) Platelets
+D) Plasma
+Answer: A) Red blood cells (Erythrocytes)
+
+Q3. What is the name of the protein in red blood cells that binds to oxygen?
+
+A) Hemoglobin
+B) Myoglobin
+C) Collagen
+D) Keratin
+Answer: A) Hemoglobin
+
+Q4. Which blood vessels carry blood away from the heart?
+
+A) Arteries
+B) Veins
+C) Capillaries
+D) Lymphatics
+Answer: A) Arteries
+
+Q5. Which blood vessels have thin walls that allow for the exchange of gases and nutrients with tissues?
+
+A) Arteries
+B) Veins
+C) Capillaries
+D) Lymphatics
+Answer: C) Capillaries
+
+Q6. What causes blood to return to the heart in veins?
+
+A) Contraction of skeletal muscles
+B) Pumping action of the heart
+C) Valves preventing backflow
+D) Gravity
+Answer: A) Contraction of skeletal muscles
+
+Q7. What is the liquid component of blood that transports nutrients, hormones, and waste products?
+
+A) Red blood cells
+B) Plasma
+C) Platelets
+D) White blood cells
+Answer: B) Plasma
+
+Q8. Which organ is responsible for filtering blood and removing toxins from the body?
+
+A) Liver
+B) Kidneys
+C) Pancreas
+D) Spleen
+Answer: B) Kidneys
+
+Q9. Which part of the nervous system regulates heart rate and blood pressure?
+
+A) Central nervous system
+B) Peripheral nervous system
+C) Autonomic nervous system
+D) Somatic nervous system
+Answer: C) Autonomic nervous system
+
+Q10. Which type of blood vessel has the largest diameter and thickest walls?
+
+A) Arteries
+B) Veins
+C) Capillaries
+D) Venules
+Answer: A) Arteries
+
+
+  
+8. RESPIRATION 
+
+Respiration Questions
+Q1. What is the primary purpose of cellular respiration in living organisms?
+
+A) ATP production
+B) Oxygen transport
+C) Waste removal
+D) Photosynthesis
+Answer: A) ATP production
+
+Q2. Where does cellular respiration primarily occur in cells?
+
+A) Mitochondria
+B) Nucleus
+C) Chloroplasts
+D) Endoplasmic reticulum
+Answer: A) Mitochondria
+
+Q3. Which molecule is broken down during cellular respiration to release energy?
+
+A) Glucose
+B) Oxygen
+C) Carbon dioxide
+D) Water
+Answer: A) Glucose
+
+Q4. What is the final electron acceptor in the electron transport chain of aerobic respiration?
+
+A) Oxygen
+B) Carbon dioxide
+C) Glucose
+D) Water
+Answer: A) Oxygen
+
+Q5. How many ATP molecules are typically produced from one molecule of glucose during aerobic respiration?
+
+A) 2 ATP
+B) 4 ATP
+C) 36-38 ATP
+D) 100 ATP
+Answer: C) 36-38 ATP
+
+Q6. What type of respiration occurs in the absence of oxygen?
+
+A) Aerobic respiration
+B) Anaerobic respiration
+C) Krebs cycle
+D) Electron transport chain
+Answer: B) Anaerobic respiration
+
+Q7. Which molecule is produced as a byproduct of anaerobic respiration in humans?
+
+A) Oxygen
+B) Carbon dioxide
+C) Lactic acid
+D) Water
+Answer: C) Lactic acid
+
+Q8. In which stage of cellular respiration is carbon dioxide produced as a waste product?
+
+A) Glycolysis
+B) Krebs cycle
+C) Electron transport chain
+D) Oxidative phosphorylation
+Answer: B) Krebs cycle
+
+Q9. Which respiratory structure in humans is responsible for gas exchange with the blood?
+
+A) Trachea
+B) Bronchi
+C) Alveoli
+D) Diaphragm
+Answer: C) Alveoli
+
+Q10. What is the main function of the respiratory system?
+
+A) Digestion of food
+B) Regulation of body temperature
+C) Transport of oxygen to cells and removal of carbon dioxide
+D) Production of hormones
+Answer: C) Transport of oxygen to cells and removal of carbon dioxide
+
+
+
+9. EXCRETION 
+
+Excretion Questions
+Q1. What is the primary purpose of excretion in living organisms?
+
+A) Regulation of body temperature
+B) Removal of waste products
+C) Transport of nutrients
+D) Energy production
+Answer: B) Removal of waste products
+
+Q2. Which organ is primarily responsible for the excretion of nitrogenous wastes in mammals?
+
+A) Liver
+B) Kidneys
+C) Lungs
+D) Pancreas
+Answer: B) Kidneys
+
+Q3. What nitrogenous waste product is excreted in urine by mammals?
+
+A) Urea
+B) Ammonia
+C) Carbon dioxide
+D) Glucose
+Answer: A) Urea
+
+Q4. In which part of the nephron does filtration of blood occur in the kidneys?
+
+A) Glomerulus
+B) Bowman's capsule
+C) Loop of Henle
+D) Collecting duct
+Answer: A) Glomerulus
+
+Q5. What process involves the reabsorption of water and useful substances from the kidney tubules back into the blood?
+
+A) Filtration
+B) Secretion
+C) Reabsorption
+D) Excretion
+Answer: C) Reabsorption
+
+Q6. Which hormone regulates water reabsorption in the kidneys?
+
+A) Insulin
+B) Glucagon
+C) Antidiuretic hormone (ADH)
+D) Adrenaline
+Answer: C) Antidiuretic hormone (ADH)
+
+Q7. What is the functional unit of the kidney responsible for urine formation?
+
+A) Nephron
+B) Ureter
+C) Bladder
+D) Urethra
+Answer: A) Nephron
+
+Q8. Which organ system is involved in the excretion of excess salts and water through sweat?
+
+A) Respiratory system
+B) Digestive system
+C) Integumentary system
+D) Muscular system
+Answer: C) Integumentary system
+
+Q9. Which nitrogenous waste is excreted by birds and reptiles as a semi-solid paste?
+
+A) Urea
+B) Ammonia
+C) Uric acid
+D) Creatinine
+Answer: C) Uric acid
+
+Q10. What is the role of the liver in excretion?
+
+A) Regulation of blood pH
+B) Production of urine
+C) Conversion of ammonia to urea
+D) Storage of excess water
+Answer: C) Conversion of ammonia to urea
+
+
+
+10. HOMEOSTASIS
+
+Homeostasis Questions
+Q1. What is homeostasis?
+
+A) The process of cell division
+B) The maintenance of a stable internal environment
+C) The breakdown of complex molecules into simpler ones
+D) The production of ATP in mitochondria
+Answer: B) The maintenance of a stable internal environment
+
+Q2. Which body system is primarily responsible for maintaining homeostasis?
+
+A) Nervous system
+B) Digestive system
+C) Endocrine system
+D) Muscular system
+Answer: C) Endocrine system
+
+Q3. What is negative feedback in the context of homeostasis?
+
+A) A response that amplifies a stimulus
+B) A response that maintains stability by counteracting a change
+C) A response that occurs in the absence of a stimulus
+D) A response that enhances cellular function
+Answer: B) A response that maintains stability by counteracting a change
+
+Q4. Which of the following is an example of a homeostatic mechanism?
+
+A) Production of adrenaline during exercise
+B) Accumulation of waste products in the blood
+C) Increase in body temperature during a fever
+D) Loss of water through sweating
+Answer: A) Production of adrenaline during exercise
+
+Q5. What is the role of the hypothalamus in homeostasis?
+
+A) Regulation of body temperature and thirst
+B) Production of insulin in response to glucose levels
+C) Coordination of muscle contractions
+D) Synthesis of hormones for growth
+Answer: A) Regulation of body temperature and thirst
+
+Q6. How does the body regulate blood glucose levels to maintain homeostasis?
+
+A) By increasing insulin production when glucose levels are high
+B) By converting glucose to glycogen in the liver
+C) By releasing glucagon when glucose levels are low
+D) All of the above
+Answer: D) All of the above
+
+Q7. What happens to blood vessels in the skin during hot weather to maintain body temperature?
+
+A) They constrict to reduce heat loss
+B) They dilate to increase heat loss
+C) They remain unchanged
+D) They secrete sweat to cool the skin
+Answer: B) They dilate to increase heat loss
+
+Q8. Which ion is important for maintaining nerve impulse transmission and muscle contraction?
+
+A) Potassium
+B) Sodium
+C) Calcium
+D) Chloride
+Answer: B) Sodium
+
+Q9. What role does the kidney play in maintaining homeostasis?
+
+A) Regulation of blood glucose levels
+B) Removal of nitrogenous wastes
+C) Production of red blood cells
+D) Regulation of body temperature
+Answer: B) Removal of nitrogenous wastes
+
+Q10. How does the body respond to a decrease in blood pressure to maintain homeostasis?
+
+A) By increasing heart rate and constricting blood vessels
+B) By decreasing heart rate and dilating blood vessels
+C) By decreasing heart rate and constricting blood vessels
+D) By increasing heart rate and dilating blood vessels
+Answer: A) By increasing heart rate and constricting blood vessels
+
+
+
+11. CLASSIFICATION II 
+
+Q1. What is the primary purpose of classification in biology?
+
+A) Identification of individual organisms
+B) Organization of diverse species into categories
+C) Study of genetics
+D) Development of new species
+Answer: B) Organization of diverse species into categories
+
+Q2. Which kingdom includes organisms with prokaryotic cells?
+
+A) Protoctista
+B) Fungi
+C) Monera
+D) Plantae
+Answer: C) Monera
+
+Q3. Which division of Kingdom Plantae includes seedless plants?
+
+A) Bryophyta
+B) Pteridophyta
+C) Spermatophyta
+D) Animalia
+Answer: B) Pteridophyta
+
+Q4. Which phylum under Kingdom Animalia includes organisms with jointed appendages and exoskeletons?
+
+A) Arthropoda
+B) Chordata
+C) Mollusca
+D) Echinodermata
+Answer: A) Arthropoda
+
+Q5. What is a characteristic feature of phylum Chordata?
+
+A) Jointed appendages
+B) Segmentation
+C) Notochord
+D) Radial symmetry
+Answer: C) Notochord
+
+Q6. Which class in phylum Chordata includes organisms with bony skeletons and scales, adapted for aquatic life?
+
+A) Amphibia
+B) Reptilia
+C) Pisces
+D) Mammalia
+Answer: C) Pisces
+
+Q7. What type of key presents a series of choices leading to the identification of an organism?
+
+A) Taxonomic key
+B) Dichotomous key
+C) Phylogenetic key
+D) Genetic key
+Answer: B) Dichotomous key
+
+Q8. How are organisms classified using dichotomous keys?
+
+A) Based on geographical distribution
+B) Based on genetic similarities
+C) Based on observable characteristics and choices
+D) Based on habitat preferences
+Answer: C) Based on observable characteristics and choices
+
+Q9. What is the purpose of a dichotomous key in biological classification?
+
+A) To identify organisms based on their scientific names
+B) To group organisms into broad categories
+C) To classify organisms based on evolutionary history
+D) To identify unknown organisms through a series of choices
+Answer: D) To identify unknown organisms through a series of choices
+
+Q10. Which kingdom includes organisms capable of photosynthesis?
+
+A) Animalia
+B) Fungi
+C) Monera
+D) Plantae
+Answer: D) Plantae
+
+Q11. Which division of Kingdom Plantae includes flowering plants?
+
+A) Bryophyta
+B) Pteridophyta
+C) Spermatophyta
+D) Fungi
+Answer: C) Spermatophyta
+
+Q12. Which class in phylum Arthropoda includes organisms with six legs and typically two pairs of wings?
+
+A) Insecta
+B) Diplopoda
+C) Chilopoda
+D) Crustacea
+Answer: A) Insecta
+
+Q13. What is the distinguishing characteristic of organisms in phylum Mollusca?
+
+A) Jointed appendages
+B) Radial symmetry
+C) Soft bodies with a muscular foot
+D) Segmentation
+Answer: C) Soft bodies with a muscular foot
+
+Q14. Which kingdom includes organisms that are multicellular but lack specialized tissues?
+
+A) Plantae
+B) Animalia
+C) Fungi
+D) Monera
+Answer: C) Fungi
+
+Q15. What is the primary mode of nutrition in fungi?
+
+A) Photosynthesis
+B) Absorption of nutrients from surroundings
+C) Ingestion of food particles
+D) Predation
+Answer: B) Absorption of nutrients from surroundings
+
+Q16. Which division of Kingdom Plantae includes non-vascular plants?
+
+A) Bryophyta
+B) Pteridophyta
+C) Spermatophyta
+D) Plantae
+Answer: A) Bryophyta
+
+Q17. Which phylum under Kingdom Animalia includes organisms with radial symmetry and stinging cells?
+
+A) Mollusca
+B) Echinodermata
+C) Porifera
+D) Cnidaria
+Answer: D) Cnidaria
+
+Q18. What is the function of the exoskeleton in organisms of phylum Arthropoda?
+
+A) Protection and support
+B) Digestion
+C) Respiration
+D) Reproduction
+Answer: A) Protection and support
+
+Q19. Which class in phylum Chordata includes organisms with mammary glands and hair?
+
+A) Amphibia
+B) Reptilia
+C) Aves
+D) Mammalia
+Answer: D) Mammalia
+
+Q20. What is the defining characteristic of organisms in phylum Echinodermata?
+
+A) Jointed appendages
+B) Segmented bodies
+C) Radial symmetry as adults
+D) Chitinous exoskeleton
+Answer: C) Radial symmetry as adults
+
+
+
+12. ECOLOGY 
+
+Ecology Questions
+Q1. What is ecology?
+
+A) The study of animal behavior
+B) The study of interactions between organisms and their environment
+C) The study of genetics
+D) The study of human societies
+Answer: B) The study of interactions between organisms and their environment
+
+Q2. Which level of ecological organization includes all living organisms in a specific area interacting with each other?
+
+A) Population
+B) Community
+C) Ecosystem
+D) Biosphere
+Answer: B) Community
+
+Q3. What is a primary producer in an ecosystem?
+
+A) An organism that eats other organisms
+B) An organism that decomposes dead matter
+C) An organism that synthesizes organic compounds using energy from the sun
+D) An organism that regulates environmental conditions
+Answer: C) An organism that synthesizes organic compounds using energy from the sun
+
+Q4. Which biotic factor has the most direct influence on the size of a population in an ecosystem?
+
+A) Predation
+B) Temperature
+C) Rainfall
+D) Soil pH
+Answer: A) Predation
+
+Q5. What is the role of decomposers in an ecosystem?
+
+A) To produce oxygen through photosynthesis
+B) To break down dead organic matter into simpler substances
+C) To regulate population sizes of other organisms
+D) To provide energy for primary producers
+Answer: B) To break down dead organic matter into simpler substances
+
+Q6. Which ecological concept refers to the variety of species in a specific area?
+
+A) Habitat
+B) Ecosystem diversity
+C) Species richness
+D) Biodiversity
+Answer: D) Biodiversity
+
+Q7. How does energy flow through an ecosystem?
+
+A) It cycles among organisms through the food chain
+B) It is lost as heat at each trophic level
+C) It accumulates in predators
+D) It is stored in primary producers
+Answer: B) It is lost as heat at each trophic level
+
+Q8. Which biome is characterized by low temperatures, permafrost, and limited plant growth?
+
+A) Tundra
+B) Grassland
+C) Desert
+D) Tropical rainforest
+Answer: A) Tundra
+
+Q9. What is a keystone species in an ecosystem?
+
+A) A species that is most abundant in the ecosystem
+B) A species that influences the structure of the community more than its abundance suggests
+C) A species that migrates between different ecosystems
+D) A species that is only found in aquatic ecosystems
+Answer: B) A species that influences the structure of the community more than its abundance suggests
+
+Q10. Which ecological concept refers to the role an organism plays in its ecosystem, including its relationships with other organisms and its physical environment?
+
+A) Habitat
+B) Niche
+C) Trophic level
+D) Succession
+Answer: B) Niche
+
+
+
+13. REPRODUCTION IN PLANTS
+
+Reproduction in Plants Questions
+Q1. What is the reproductive structure of angiosperms responsible for producing seeds?
+
+A) Stamens
+B) Pistils
+C) Sepals
+D) Carpels
+Answer: B) Pistils
+
+Q2. What is the male reproductive organ of a flower that produces pollen grains?
+
+A) Ovary
+B) Style
+C) Stigma
+D) Stamen
+Answer: D) Stamen
+
+Q3. What is the process by which pollen grains are transferred from the anther to the stigma of a flower?
+
+A) Fertilization
+B) Pollination
+C) Germination
+D) Photosynthesis
+Answer: B) Pollination
+
+Q4. Which type of pollination involves pollen transfer between flowers of the same plant?
+
+A) Cross-pollination
+B) Self-pollination
+C) Wind pollination
+D) Animal pollination
+Answer: B) Self-pollination
+
+Q5. In flowering plants, where does fertilization occur?
+
+A) Ovary
+B) Anther
+C) Stigma
+D) Petal
+Answer: A) Ovary
+
+Q6. Which structure in the ovary develops into a seed after fertilization?
+
+A) Ovule
+B) Style
+C) Stigma
+D) Sepal
+Answer: A) Ovule
+
+Q7. What is the dispersal mechanism of seeds that involves wind or air currents?
+
+A) Hydrochory
+B) Zoochory
+C) Anemochory
+D) Autochory
+Answer: C) Anemochory
+
+Q8. Which hormone is responsible for promoting the growth of the pollen tube towards the ovule after pollination?
+
+A) Ethylene
+B) Gibberellin
+C) Auxin
+D) Cytokinin
+Answer: C) Auxin
+
+Q9. What is the specialized structure in gymnosperms that contains ovules and later develops into seeds?
+
+A) Cone
+B) Fruit
+C) Flower
+D) Stigma
+Answer: A) Cone
+
+Q10. Which type of plant reproduction involves the production of new individuals from vegetative parts such as roots, stems, or leaves?
+
+A) Sexual reproduction
+B) Asexual reproduction
+C) Cross-pollination
+D) Double fertilization
+Answer: B) Asexual reproduction
+
+
+
+14. REPRODUCTION IN ANIMALS
+
+Reproduction in Animals Questions
+Q1. What is external fertilization?
+
+A) Fertilization that occurs inside the female's body
+B) Fertilization that occurs outside the female's body
+C) Fertilization without the involvement of gametes
+D) Fertilization involving multiple males and females
+Answer: B) Fertilization that occurs outside the female's body
+
+Q2. In mammals, where does fertilization typically occur?
+
+A) Ovary
+B) Uterus
+C) Fallopian tube
+D) Vagina
+Answer: C) Fallopian tube
+
+Q3. What is the term for the release of a mature egg from the ovary?
+
+A) Menstruation
+B) Ovulation
+C) Fertilization
+D) Implantation
+Answer: B) Ovulation
+
+Q4. Which hormone is responsible for the development and maintenance of female secondary sexual characteristics and the menstrual cycle?
+
+A) Estrogen
+B) Progesterone
+C) Testosterone
+D) Follicle-stimulating hormone (FSH)
+Answer: A) Estrogen
+
+Q5. What is the primary function of the testes in male reproduction?
+
+A) Production of sperm
+B) Production of testosterone
+C) Storage of sperm
+D) Transport of sperm to the urethra
+Answer: A) Production of sperm
+
+Q6. What is the structure that connects the testes to the urethra and transports sperm?
+
+A) Vas deferens
+B) Epididymis
+C) Seminal vesicle
+D) Prostate gland
+Answer: A) Vas deferens
+
+Q7. In which part of the female reproductive system does fertilization usually occur?
+
+A) Uterus
+B) Vagina
+C) Cervix
+D) Fallopian tube
+Answer: D) Fallopian tube
+
+Q8. What is the process called where the fertilized egg implants and develops in the uterus?
+
+A) Ovulation
+B) Menstruation
+C) Fertilization
+D) Implantation
+Answer: D) Implantation
+
+Q9. Which gland in male reproductive anatomy secretes a fluid that contributes to semen volume and nourishes sperm?
+
+A) Seminal vesicle
+B) Prostate gland
+C) Bulbourethral gland
+D) Cowper's gland
+Answer: A) Seminal vesicle
+
+Q10. Which type of fertilization involves the union of sperm and egg outside the body, often in water?
+
+A) Internal fertilization
+B) External fertilization
+C) Cross-fertilization
+D) Self-fertilization
+Answer: B) External fertilization
+
+
+
+15. GROWTH AND DEVELOPMENT IN PLANTS 
+ 
+Growth and Development in Plants Questions
+Q1. What is the process by which plants increase in size and mass?
+
+A) Photosynthesis
+B) Germination
+C) Growth
+D) Reproduction
+Answer: C) Growth
+
+Q2. Which plant hormone promotes cell elongation and growth in response to light?
+
+A) Gibberellin
+B) Abscisic acid
+C) Ethylene
+D) Auxin
+Answer: D) Auxin
+
+Q3. What is phototropism in plants?
+
+A) Growth response to gravity
+B) Growth response to touch
+C) Growth response to light
+D) Growth response to water
+Answer: C) Growth response to light
+
+Q4. Which plant hormone is involved in the promotion of seed germination and fruit ripening?
+
+A) Cytokinin
+B) Ethylene
+C) Abscisic acid
+D) Gibberellin
+Answer: D) Gibberellin
+
+Q5. What is the primary function of cytokinins in plants?
+
+A) Inhibition of growth
+B) Promotion of leaf abscission
+C) Promotion of cell division
+D) Promotion of seed dormancy
+Answer: C) Promotion of cell division
+
+Q6. Which process in plants involves the shedding of leaves, flowers, or fruits?
+
+A) Dormancy
+B) Absorption
+C) Abscission
+D) Pollination
+Answer: C) Abscission
+
+Q7. What is the term for the process by which a seed develops into a new plant?
+
+A) Photosynthesis
+B) Fertilization
+C) Germination
+D) Pollination
+Answer: C) Germination
+
+Q8. Which plant growth response involves the growth of roots towards water and nutrients?
+
+A) Phototropism
+B) Gravitropism
+C) Hydrotropism
+D) Thigmotropism
+Answer: C) Hydrotropism
+
+Q9. What is the primary role of ethylene in plants?
+
+A) Promotion of seed germination
+B) Inhibition of fruit ripening
+C) Promotion of leaf expansion
+D) Promotion of fruit ripening and leaf abscission
+Answer: D) Promotion of fruit ripening and leaf abscission
+
+Q10. Which plant growth response involves the bending or growth of plant parts in response to touch or mechanical stimuli?
+
+A) Phototropism
+B) Gravitropism
+C) Hydrotropism
+D) Thigmotropism
+Answer: D) Thigmotropism
+
+
+16. GROWTH AND DEVELOPMENT IN ANIMALS 
+
+Growth and Development in Animals Questions
+Q1. What is the term for the series of changes an organism goes through during its life cycle?
+
+A) Evolution
+B) Metamorphosis
+C) Reproduction
+D) Adaptation
+Answer: B) Metamorphosis
+
+Q2. In mammals, what is the developmental stage of an embryo when it implants into the uterine wall?
+
+A) Blastula
+B) Morula
+C) Blastocyst
+D) Gastrula
+Answer: C) Blastocyst
+
+Q3. Which hormone is responsible for the regulation of growth and development in animals?
+
+A) Estrogen
+B) Testosterone
+C) Growth hormone
+D) Thyroxine
+Answer: C) Growth hormone
+
+Q4. What is the term for the shedding of the outer layer of skin or feathers to facilitate growth in animals?
+
+A) Molting
+B) Ecdysis
+C) Shedding
+D) Sloughing
+Answer: B) Ecdysis
+
+Q5. Which stage of insect metamorphosis involves the transformation of a larva into an adult?
+
+A) Pupa
+B) Nymph
+C) Imago
+D) Larva
+Answer: C) Imago
+
+Q6. What is the term for the process by which a tadpole develops into a frog?
+
+A) Metamorphosis
+B) Regeneration
+C) Fertilization
+D) Hybridization
+Answer: A) Metamorphosis
+
+Q7. Which organ in humans is responsible for the production of red blood cells and many immune system functions?
+
+A) Kidneys
+B) Liver
+C) Spleen
+D) Bone marrow
+Answer: D) Bone marrow
+
+Q8. Which type of growth in animals involves the increase in size and mass of bones and tissues?
+
+A) Hypertrophy
+B) Hyperplasia
+C) Hyperextension
+D) Hypertension
+Answer: A) Hypertrophy
+
+Q9. What is the term for the process by which an organism regrows lost or damaged body parts?
+
+A) Regeneration
+B) Reproduction
+C) Mutation
+D) Fragmentation
+Answer: A) Regeneration
+
+Q10. Which process involves the formation and maturation of sperm cells in males?
+
+A) Oogenesis
+B) Oviposition
+C) Spermatogenesis
+D) Gametogenesis
+Answer: C) Spermatogenesis
+
+
+
+17. GENETICS
+
+Genetics Questions
+Q1. What is the study of inheritance and variation of traits in organisms called?
+
+A) Evolution
+B) Ecology
+C) Genetics
+D) Physiology
+Answer: C) Genetics
+
+Q2. What are the alternate forms of a gene called?
+
+A) Alleles
+B) Genomes
+C) Mutations
+D) Chromosomes
+Answer: A) Alleles
+
+Q3. What term describes the genetic makeup of an organism, typically represented by letters (e.g., TT, Tt, tt)?
+
+A) Phenotype
+B) Genotype
+C) Homozygous
+D) Heterozygous
+Answer: B) Genotype
+
+Q4. In a heterozygous genotype (Aa), which allele is expressed in the phenotype?
+
+A) Both alleles equally
+B) The recessive allele
+C) The dominant allele
+D) Neither allele
+Answer: C) The dominant allele
+
+Q5. What is the term for the physical expression of a genetic trait?
+
+A) Genotype
+B) Allele
+C) Phenotype
+D) Homologous
+Answer: C) Phenotype
+
+Q6. Mendel's law that states alleles separate independently during the formation of gametes is known as:
+
+A) Law of Dominance
+B) Law of Segregation
+C) Law of Independent Assortment
+D) Law of Homozygosity
+Answer: C) Law of Independent Assortment
+
+Q7. What is the likelihood of a particular event happening, such as inheriting a specific genotype?
+
+A) Phenotype
+B) Genotype
+C) Probability
+D) Mutation rate
+Answer: C) Probability
+
+Q8. Which genetic disorder results from the presence of an extra chromosome 21, causing intellectual disability and developmental delays?
+
+A) Turner syndrome
+B) Klinefelter syndrome
+C) Down syndrome
+D) Cystic fibrosis
+Answer: C) Down syndrome
+
+Q9. In humans, what determines the sex of offspring?
+
+A) Number of X chromosomes in the egg
+B) Presence or absence of a Y chromosome in the sperm
+C) Temperature during development
+D) Hormonal balance in the mother
+Answer: B) Presence or absence of a Y chromosome in the sperm
+
+Q10. What is the term for a diagram that shows the genetic relationships among a set of individuals?
+
+A) Pedigree
+B) Punnett square
+C) Karyotype
+D) Chromatid
+Answer: A) Pedigree
+
+
+
+18. EVOLUTION 
+
+Evolution Questions
+Q1. What is evolution?
+
+A) The creation of new species
+B) The study of fossils
+C) The change in inherited traits in populations over generations
+D) The movement of organisms from one habitat to another
+Answer: C) The change in inherited traits in populations over generations
+
+Q2. Which scientist proposed the theory of natural selection as a mechanism for evolution?
+
+A) Charles Darwin
+B) Gregor Mendel
+C) Alfred Wallace
+D) Lamarck
+Answer: A) Charles Darwin
+
+Q3. What is the term for structures that have reduced or no function in modern organisms but were functional in ancestral forms?
+
+A) Vestigial structures
+B) Homologous structures
+C) Analogous structures
+D) Adaptive structures
+Answer: A) Vestigial structures
+
+Q4. Which process describes the change in allele frequencies of a population over time due to chance events?
+
+A) Natural selection
+B) Genetic drift
+C) Gene flow
+D) Mutation
+Answer: B) Genetic drift
+
+Q5. What term describes the preservation of traits that increase an organism's fitness in a particular environment?
+
+A) Natural selection
+B) Genetic drift
+C) Mutation
+D) Migration
+Answer: A) Natural selection
+
+Q6. Which type of selection favors extreme phenotypes over intermediate phenotypes?
+
+A) Stabilizing selection
+B) Directional selection
+C) Disruptive selection
+D) Sexual selection
+Answer: C) Disruptive selection
+
+Q7. What is the term for the process where unrelated species evolve similar traits due to similar environmental pressures?
+
+A) Convergent evolution
+B) Divergent evolution
+C) Adaptive radiation
+D) Coevolution
+Answer: A) Convergent evolution
+
+Q8. Which type of evidence for evolution involves similarities in embryonic development among different species?
+
+A) Comparative anatomy
+B) Molecular biology
+C) Fossil record
+D) Comparative embryology
+Answer: D) Comparative embryology
+
+Q9. What term describes the evolution of new species in a relatively short period due to rapid environmental changes?
+
+A) Punctuated equilibrium
+B) Gradualism
+C) Adaptive radiation
+D) Divergent evolution
+Answer: C) Adaptive radiation
+
+Q10. Which scientist proposed the theory of punctuated equilibrium to explain evolutionary changes?
+
+A) Charles Darwin
+B) Alfred Wallace
+C) Stephen Jay Gould
+D) Richard Dawkins
+Answer: C) Stephen Jay Gould
+
+
+
+19. RECEPTION, RESPONSE AND COORDINATION 
+
+Reception, Response, and Coordination Questions
+Q1. What term describes a detectable change in the internal or external environment of an organism?
+
+A) Response
+B) Stimulus
+C) Coordination
+D) Reflex
+Answer: B) Stimulus
+
+Q2. Which plant growth response involves the bending of plant parts toward or away from a stimulus, such as light or gravity?
+
+A) Taxis
+B) Tropism
+C) Phototropism
+D) Nastic movement
+Answer: C) Phototropism
+
+Q3. In animals, what type of movement is directed toward or away from a stimulus?
+
+A) Nastic movement
+B) Taxis
+C) Tropism
+D) Phototropism
+Answer: B) Taxis
+
+Q4. Which plant hormone is primarily responsible for promoting elongation of plant cells in response to light?
+
+A) Auxin
+B) Gibberellin
+C) Cytokinin
+D) Abscisic acid
+Answer: A) Auxin
+
+Q5. What is the primary function of neurotransmitters in the nervous system?
+
+A) Transmitting nerve impulses across synapses
+B) Producing hormones in the pituitary gland
+C) Maintaining fluid balance in the brain
+D) Enhancing muscle contraction
+Answer: A) Transmitting nerve impulses across synapses
+
+Q6. Which part of the brain is responsible for regulating basic bodily functions such as breathing and heart rate?
+
+A) Cerebrum
+B) Hypothalamus
+C) Cerebellum
+D) Medulla oblongata
+Answer: D) Medulla oblongata
+
+Q7. Which hormone is released by the adrenal glands in response to stress, increasing heart rate and blood pressure?
+
+A) Cortisol
+B) Insulin
+C) Estrogen
+D) Adrenaline (epinephrine)
+Answer: D) Adrenaline (epinephrine)
+
+Q8. How do endocrine and nervous systems differ in their mode of signaling?
+
+A) Endocrine signals are electrical; nervous signals are chemical
+B) Endocrine signals are chemical; nervous signals are electrical
+C) Endocrine signals are slower; nervous signals are faster
+D) Endocrine signals are localized; nervous signals are systemic
+Answer: B) Endocrine signals are chemical; nervous signals are electrical
+
+Q9. Which sensory organ is primarily responsible for detecting sound waves and transmitting auditory information to the brain?
+
+A) Eye
+B) Tongue
+C) Ear
+D) Nose
+Answer: C) Ear
+
+Q10. What is the term for the ability of the eye to adjust its focus from distant to near objects?
+
+A) Refraction
+B) Accommodation
+C) Convergence
+D) Astigmatism
+Answer: B) Accommodation
+
+Q11. Which gland in the endocrine system produces thyroxine, a hormone that regulates metabolism?
+
+A) Adrenal gland
+B) Thyroid gland
+C) Pituitary gland
+D) Pancreas
+Answer: B) Thyroid gland
+
+Q12. What is the term for the process by which a nerve impulse is transmitted from one neuron to another across a synapse?
+
+A) Conduction
+B) Reception
+C) Transmission
+D) Synaptic transmission
+Answer: D) Synaptic transmission
+
+Q13. Which part of the brain is responsible for voluntary movement, sensory perception, and higher cognitive functions?
+
+A) Medulla oblongata
+B) Cerebellum
+C) Cerebrum
+D) Hypothalamus
+Answer: C) Cerebrum
+
+Q14. Which neurotransmitter is associated with pleasure and reward pathways in the brain?
+
+A) Serotonin
+B) Dopamine
+C) Acetylcholine
+D) GABA (gamma-aminobutyric acid)
+Answer: B) Dopamine
+
+Q15. What is the term for an involuntary and rapid response to a stimulus, typically involving a sensory neuron and a motor neuron?
+
+A) Reflex arc
+B) Tactic response
+C) Reflex action
+D) Phototropism
+Answer: C) Reflex action
+
+Q16. Which part of the ear is responsible for detecting changes in head position and maintaining balance?
+
+A) Cochlea
+B) Tympanic membrane
+C) Semicircular canals
+D) Eustachian tube
+Answer: C) Semicircular canals
+
+Q17. What is the function of the lens in the eye?
+
+A) Detecting light intensity
+B) Converting light into electrical signals
+C) Focusing light onto the retina
+D) Protecting the eye from foreign particles
+Answer: C) Focusing light onto the retina
+
+
+
+20. SUPPORT IN ANIMALS AND PLANTS
+What is the primary structural material providing support in plant cell walls?
+
+A) Collagen
+B) Chitin
+C) Cellulose
+D) Keratin
+Answer: C) Cellulose
+Which of the following is a specialized plant tissue responsible for providing mechanical support?
+
+A) Phloem
+B) Xylem
+C) Parenchyma
+D) Epidermis
+Answer: B) Xylem
+In animals, which structure provides support and attachment for muscles and bones?
+
+A) Tendons
+B) Cartilage
+C) Ligaments
+D) Dermis
+Answer: A) Tendons
+Which type of plant tissue is responsible for the growth of stems and roots, providing primary structural support?
+
+A) Collenchyma
+B) Sclerenchyma
+C) Meristematic
+D) Epidermis
+Answer: C) Meristematic
+What is the function of osteoblasts in animals?
+
+A) Break down bone tissue
+B) Secrete new bone tissue
+C) Transmit nerve impulses
+D) Contract muscles
+Answer: B) Secrete new bone tissue
+Which plant hormone is primarily responsible for controlling cell elongation and thereby influencing plant growth and support?
+
+A) Ethylene
+B) Gibberellins
+C) Abscisic acid
+D) Cytokinin
+Answer: B) Gibberellins
+What is the function of the myelin sheath in animals?
+
+A) Provides support and protection for neurons
+B) Facilitates nerve impulse conduction
+C) Connects muscles to bones
+D) Stores excess glucose
+Answer: B) Facilitates nerve impulse conduction
+Which animal tissue type forms the framework of organs like the liver, spleen, and lymph nodes?
+
+A) Connective tissue
+B) Muscle tissue
+C) Nervous tissue
+D) Epithelial tissue
+Answer: A) Connective tissue
+In plants, what role do sclerenchyma cells play in providing support?
+
+A) Facilitate water transport
+B) Store starch and oils
+C) Provide structural support due to thick secondary walls
+D) Perform photosynthesis
+Answer: C) Provide structural support due to thick secondary walls
+Which of the following is an example of an exoskeleton providing support in animals?
+
+A) Bones
+B) Cartilage
+C) Chitin
+D) Collagen
+Answer: C) Chitin
