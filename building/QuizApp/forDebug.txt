@@ -1,0 +1,9 @@
+QUIZ APP ALGORITHM
+1. html-question and choice buttons
+2. fetch the questions from JSON file
+3. Update html
+4. add timer, welcome section, and result section
+5. authentication page and account creation
+6. create a testSection
+7. save answers in backend(database)
+8. give back results

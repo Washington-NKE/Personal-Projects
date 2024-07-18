@@ -44,7 +44,7 @@ function startQuiz() {
     score = 0;
     timeLeft = 30;
     loadQuestion();
-    startTimer();
+    resetTimer();
 }
 
 //Function ya kuload swali
