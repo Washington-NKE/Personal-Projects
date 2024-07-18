@@ -8,29 +8,37 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <section>
-        <section class="header">
-            <header> BIOLOGY QUIZ</header>
-        </section>
-        <section>
-            <div id="quiz-container">
-                <h2 id="question">Question</h2>
-                <div id="choices">
-                    <button class="choice">Choice1</button>
-                    <button class="choice">Choice2</button>
-                    <button class="choice">Choice3</button>
-                    <button class="choice">Choice4</button>
-                </div>
-                <button id="next-btn" onclick="
-                nextQuestion()
-                ">Next</button>
-            </div>
-        </section>
-        <section class="footer">
-            footer
-        </section>
+    <div>
+        <header> BIOLOGY QUIZ</header>
         
-    </section>
+        
+        <div id="welcome-screen">
+            <p>Welcome to the SMILEY! Test your knowledge and have fun!</p>
+            <button class="start-btn quiz-btn">START</button>
+        </div>
+        <div id="quiz-container" style="display: none;">
+            <div id="question-counter">Question 1 out of 10</div>
+            <div id="timer">Time left: 00:30</div>
+            <h2 id="question"></h2>
+            <div id="choices">
+                <button class="choice"></button>
+                <button class="choice"></button>
+                <button class="choice"></button>
+                <button class="choice"></button>
+            </div>
+            <button id="next-btn" style="display: none;">Next</button>
+            <div id="progress-container">
+                <div id="progress-bar">0%</div>
+            </div>
+        </div>
+        <div id="results" style="display:none ;">
+            <h2>Quiz Completed</h2>
+            <p id="score"></p>
+            <button class="start-btn" onclick="restartQuiz()">Restart Quiz</button>
+        </div>
+    
+    </div>
+            
     
     <script src="quiz.js"> </script>
 </body>

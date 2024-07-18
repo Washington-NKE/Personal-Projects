@@ -8,5 +8,93 @@
         "question": "What is the basic unit of heredity?",
         "options": ["Gene", "Chromosome", "DNA", "Protein"],
         "answer": "Gene"
-    }
+    },{ 
+        "question": "What is biology primarily concerned with?",
+        "options": ["Studying rocks and minerals", "Exploring outer space", "Understanding living organisms", "Analyzing weather patterns"],
+        "answer": "Understanding living organisms"
+    },{
+        "question": "What is taxonomy?",
+        "options":["The study of ancient civilizations", "The study of classification and naming of organisms", "The study of weather patterns", " The study of outer space"],
+        "answer": "The study of classification and naming of organisms"
+     },{
+        "question": "Who proposed the cell theory?",
+        "options":["Charles Darwin", "Gregor Mendel", "Robert Hooke", "Louis Pasteur"],
+        "answer": "Robert Hooke"
+    },{
+        "question": " What is the primary function of the cell membrane?",
+        "options":["Energy production", "Regulation of cellular transport", "DNA replication", "Waste removal"],
+        "answer": "Regulation of cellular transport"
+    },{
+        "question": "What is the primary purpose of nutrition in living organisms?",
+        "options":["Growth and development", "ATP production", "Regulation of body temperature", "Cell communication"],
+        "answer": "Growth and development"
+    },{
+        "question": "What is the primary role of xylem tissue in plants?",
+        "options":["Transport of sugars", "Transport of water and minerals", "Photosynthesis", "Protection against pathogens"],
+        "answer": "Transport of water and minerals"
+    },{
+        "question": "What is the primary function of the circulatory system in animals?",
+        "options":["Digestion of food", "Regulation of body temperature", "Transport of oxygen and nutrients", "Excretion of waste products"],
+        "answer": "Transport of oxygen and nutrients"
+    },{
+        "question": "What is the primary purpose of cellular respiration in living organisms?",
+        "options":["ATP production", "Oxygen transport", "Waste removal", "Photosynthesis"],
+        "answer": "ATP production"
+    },{
+        "question": "What is the primary purpose of excretion in living organisms?",
+        "options":["Regulation of body temperature", "Removal of waste products", "Transport of nutrients", "Energy production"],
+        "answer": "Removal of waste products"
+    },{
+        "question": "What is homeostasis?",
+        "options":["The process of cell division", "The maintenance of a stable internal environment", "The breakdown of complex molecules into simpler ones", "The production of ATP in mitochondria"],
+        "answer": "The maintenance of a stable internal environment"
+    },{
+        "question": "What is the primary purpose of classification in biology?",
+        "options":["Identification of individual organisms", "Organization of diverse species into categories", "Study of genetics", "Development of new species"],
+        "answer": "Organization of diverse species into categories"
+    },{
+        "question": "Which division of Kingdom Plantae includes flowering plants?",
+        "options":["Bryophyta", "Pteridophyta", "Spermatophyta", "Fungi"],
+        "answer": "Spermatophyta"
+    },{
+        "question": "What is ecology?",
+        "options":["The study of animal behavior", "The study of interactions between organisms and their environment", "The study of genetics", "The study of human societies"],
+        "answer": "The study of interactions between organisms and their environment"
+    },{
+        "question": "What is the reproductive structure of angiosperms responsible for producing seeds?",
+        "options":["Stamens", "Pistils", "Sepals", "Carpels"],
+        "answer": "Pistils"
+    },{
+        "question": "What is external fertilization?",
+        "options":["Fertilization that occurs inside the female's body", "Fertilization that occurs outside the female's body", "Fertilization without the involvement of gametes", "Fertilization involving multiple males and females"],
+        "answer": "Fertilization that occurs outside the female's body"
+    },{
+        "question": "What is the process by which plants increase in size and mass?",
+        "options":["Photosynthesis", "Germination", "Growth", "Reproduction"],
+        "answer": "Growth"
+    },{
+        "question": "What is the term for the series of changes an organism goes through during its life cycle?",
+        "options":["Evolution", "Metamorphosis", "Reproduction", "Adaptation"],
+        "answer": "Metamorphosis"
+    },{
+        "question": "What is the study of inheritance and variation of traits in organisms called?",
+        "options":["Evolution", "Ecology", "Genetics", "Physiology"],
+        "answer": "Genetics"
+    },{
+        "question": "What is evolution?",
+        "options":["The creation of new species", "The study of fossils", "The change in inherited traits in populations over generations", "The movement of organisms from one habitat to another"],
+        "answer": "The change in inherited traits in populations over generations"
+    },{
+        "question": "What term describes a detectable change in the internal or external environment of an organism?",
+        "options":["Response", "Stimulus", "Coordination", "Reflex"],
+        "answer": "Stimulus"
+    },{
+        "question": "Which gland in the endocrine system produces thyroxine, a hormone that regulates metabolism?",
+        "options":["Adrenal gland", "Thyroid gland", "Pituitary gland", "Pancreas"],
+        "answer": "Thyroid gland"
+},{
+    "question": "What is the primary structural material providing support in plant cell walls?",
+        "options":[" Collagen", "Chitin", "Cellulose", "Keratin"],
+        "answer": "Cellulose"
+}
 ]

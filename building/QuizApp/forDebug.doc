@@ -12,7 +12,7 @@ const quizData = [
         choices: ['LH','progesterone', 'ADH', 'oestrogen'],
         correct: 'ADH'
     }
-];
+]
 
 let questionIndex = 0;
 let score = 0;
@@ -20,36 +20,9 @@ let score = 0;
 const questionEl = document.getElementById('question');
 const choicesEl = document.getElementById('choices');
 const nextBtn = document.getElementById('next-btn');
-const questionCounterEl = document.getElementById('question-counter');
-const progressBarEl = document.getElementById('progress-bar');
-const timerEl = document.getElementById('timer');
-const startBtn = document.querySelector('.start-btn');
-const welcomeScreen = document.getElementById('welcome-screen');
-const quizContent = document.getElementById('quiz-container');
-const resultsEl = document.getElementById('results');
-const scoreEl = document.getElementById('score');
 
-let randomQuestions = [];
-let timeLeft = 30;
-let timer;
-
-startBtn.addEventListener('click', startQuiz);
-
-// Function ya kuanzisha quiz
-function startQuiz() {
-    welcomeScreen.style.display = 'none';
-    quizContent.style.display = 'block';
-    randomQuestions = getRandomQuestions(10, []);
-    questionIndex = 0;
-    score = 0;
-    timeLeft = 30;
-    loadQuestion();
-    startTimer();
-}
-
-//Function ya kuload swali
-function loadQuestion() {
-    const currentQuestion = randomQuestions[questionIndex]; 
+function loadQuestion(randomQuestions) {
+    const currentQuestion = randomQuestions[questionIndex] || quizData[questionIndex]; 
     questionEl.innerHTML = currentQuestion.question;
     choicesEl.innerHTML = '';
     currentQuestion.choices.forEach(choice =>{
@@ -69,17 +42,6 @@ function loadQuestion() {
         button.style.height = '60px';
         button.style.fontSize = '20px';
     });
-    updateProgress();
-    resetTimer();
-}
-
-//Function ya ku-update progress bar na counter
-function updateProgress() {
-    const currentQuestionNumber = questionIndex + 1;
-    questionCounterEl.innerHTML = `Question ${currentQuestionNumber} out of ${randomQuestions.length}`;
-    const progressPercentage = (currentQuestionNumber /randomQuestions.length) * 100;
-    progressBarEl.style.width = `${progressPercentage}%`;
-    progressBarEl.innerHTML = `${progressPercentage.toFixed(0)}`;
 }
 
 function selectAnswer(button, correctAnswer) {
@@ -92,45 +54,24 @@ function selectAnswer(button, correctAnswer) {
     Array.from(choicesEl.children).forEach(child => {
         child.disabled = true;
     });
-    nextBtn.style.display = 'block';
+    nextBtn.style.display = 'relative';
 }
-
 
 function nextQuestion(){
     questionIndex++;
-    if(questionIndex < randomQuestions.length) {
+    if(questionIndex < 10) {
         loadQuestion();
     } else {
         showResults();
+        nextBtn.style.display = 'none';
     }
 }
 
 
 function showResults(){
-    questionEl.innerHTML = `You scored ${score} out of ${randomQuestions.length}`;
+    questionEl.innerHTML = `You scored ${score} out of ${10}`;
     choicesEl.innerHTML = '';
     nextBtn.style.display = 'none';
-    quizContent.style.display = 'none';
-    resultsEl.style.display = 'block';
-    progressBarEl.style.width = '100%';
-    progressBarEl.innerHTML = '100%';
-    scoreEl.innerHTML = `You scored ${score} out of ${randomQuestions.length}`;
-}
-
-// Function ya timer
-function resetTimer(){
-    clearInterval(timer);
-    timeLeft = 30;
-    timerEl.innerHTML = `Time left: 00:${timeLeft}`;
-    timer = setInterval(() => {
-        timeLeft--;
-        if(timeLeft < 0){
-            clearInterval(timer);
-            nextQuestion();
-        } else {
-            timerEl.innerHTML = `Time left: 00:${timeLeft < 10 ? '0' : ''}${timeLeft}`;
-        }
-    }, 1000);
 }
 
 // Function to load questions from the JSON file
@@ -163,7 +104,7 @@ function addQuestions(newQuestions) {
 
 getQuestions().then (() =>{
     console.log(quizData);
-    //loadQuestion();
+    loadQuestion();
 
 });
 
@@ -181,16 +122,20 @@ function getRandomQuestions(num, usedQuestions) {
     return randomQuestions;
 }
 
+let quizQuestions = [];
+
+function displayQuestions(questions) {
+    //console.log(questions);
+    quizQuestions.push(...questions);
+}
 
 const usedQuestions = [];
 
-document.querySelectorAll('.quiz-btn').forEach((button) => {
-    button.addEventListener('click', () => {
-        randomQuestions = getRandomQuestions(10, usedQuestions);
-       questionIndex = 0;
-       score = 0;
-        loadQuestion();
-    });
+document.querySelectorAll('.quiz-btn').forEach((button, index) => {
+button.addEventListener('click', () => {
+    const randomQuestions = getRandomQuestions(10, usedQuestions);
+    displayQuestions(randomQuestions);
+    loadQuestion(randomQuestions);
 });
-
-nextBtn.addEventListener('click',nextQuestion);
+});
+//console.log(quizQuestions);
