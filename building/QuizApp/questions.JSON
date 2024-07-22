@@ -96,5 +96,305 @@
     "question": "What is the primary structural material providing support in plant cell walls?",
         "options":[" Collagen", "Chitin", "Cellulose", "Keratin"],
         "answer": "Cellulose"
+},{
+    "question": "Which statement best describes the cell theory?",
+        "options":["Cells are only found in animals", "All living organisms are composed of cells", "Cells can only reproduce asexually", "Cells are not affected by their environment"],
+        "answer": "All living organisms are composed of cells"
+},{
+    "question": "Who developed the system of binomial nomenclatur",
+        "options":["Gregor Mendel", "Carl Linnaeus", "Charles Darwin", "Alfred Wallace"],
+        "answer": "Carl Linnaeus"
+},{
+    "question": "Which level of biological organization includes all other levels?",
+        "options":["Organ system", "Organism", "Cell", "Ecosystem"],
+        "answer": "Organism"
+},{
+    "question": "Which step of the scientific method involves making predictions based on observations?",
+        "options":["Experimentation", "Hypothesis", "Analysis", "Conclusion"],
+        "answer": "Hypothesis"
+},{
+    "question": "What are the building blocks of proteins?",
+        "options":["Amino acids", "Nucleotides", "Fatty acids", "Monosaccharides"],
+        "answer": "Amino acids"
+},{
+    "question": "What molecule carries genetic information in cells?",
+        "options":["Lipids", "Proteins", "DNA", "Carbohydrates"],
+        "answer": "DNA"
+},{
+    "question": "Which process explains how species change over time?",
+        "options":["Natural selection", "Genetic engineering", "Cell division", "Photosynthesis"],
+        "answer": "Natural selection"
+},{
+    "question": "What is the scientific name for the modern system of naming organisms?",
+        "options":["Taxonomy", "Classification", "Binomial nomenclature", "Phylogenetics"],
+        "answer": "Binomial nomenclature"
+},{
+    "question": "What is the primary source of energy for photosynthesis?",
+        "options":["Wate", "Oxygen", "Carbon dioxide", "Sunlight"],
+        "answer": "Sunlight"
+},{
+    "question": "Which level of ecological organization involves all biotic and abiotic factors in a particular area?",
+     "options":["Ecosystem", "Community", "Population", "Biosphere"],
+    "answer": "Ecosystem"
+},{
+    "question": "Which is the correct hierarchy of biological classification from broadest to most specific?",
+    "options":["Kingdom, Phylum, Class, Order, Family, Genus, Species", "Phylum, Kingdom, Class, Order, Family, Genus, Species", "Kingdom, Phylum, Order, Class, Family, Genus, Species", "Species, Genus, Family, Order, Class, Phylum, Kingdom"],
+    "answer": "Kingdom, Phylum, Class, Order, Family, Genus, Species"
+},{
+    "question": "Which part of a scientific name is capitalized?",
+    "options":["The genus name", "The species name", "Both the genus and species names", "Neither the genus nor species names"],
+    "answer": "The genus name"
+},{
+    "question": "Which kingdom includes organisms that are multicellular, eukaryotic, and capable of photosynthesis?",
+        "options":["Animalia", "Plantae", "Fungi", "Protista"],
+        "answer": "Plantae"
+},{
+    "question": "What is the correct order of classification for humans?",
+        "options":["Animalia, Chordata, Mammalia, Primates, Hominidae, Homo sapiens", "Homo sapiens, Hominidae, Primates, Mammalia, Chordata, Animalia", "Mammalia, Chordata, Primates, Hominidae, Homo sapiens, Animalia", "Chordata, Mammalia, Primates, Hominidae, Homo sapiens, Animalia"],
+        "answer": "Animalia, Chordata, Mammalia, Primates, Hominidae, Homo sapiens"
+},{
+    "question": "What is used to show evolutionary relationships among organisms?",
+        "options":["Dichotomous keys", "Cladograms", "Taxonomic keys", "Phylogenetic trees"],
+        "answer": "Phylogenetic trees"
+},{
+    "question": "Which taxonomic level is broader than class but narrower than kingdom?",
+        "options":["Family","Order","Phylum", "Genus"],
+        "answer": "Phylum"
+},{
+    "question": "What are dichotomous keys used for in biology?",
+        "options":["To classify organisms based on physical characteristics", "To determine genetic mutations in organisms", "To measure ecological diversity", "To study geological formations"],
+        "answer": "To classify organisms based on physical characteristics"
+},{
+    "question": "Which classification system groups organisms based on their evolutionary history and genetic similarities?",
+        "options":["Phenetic classification", "Linnaean classification", "Evolutionary taxonomy", "Molecular taxonomy"],
+        "answer": "Evolutionary taxonomy"
+},{
+    "question": "What is the function of the cell membrane?",
+        "options":["Energy production", "Cell division", "Regulation of materials entering and leaving the cell", "Protein synthesis"],
+        "answer": "Regulation of materials entering and leaving the cell"
+},{
+    "question": "Which organelle is responsible for ATP production?",
+        "options":["Golgi apparatus", "Mitochondria", "Ribosomes", "Lysosomes"],
+        "answer": "Mitochondria"
+},{
+    "question": "What is the function of the Golgi apparatus?",
+        "options":["Protein synthesis", "Energy storage", "Modifying and packaging proteins", "Digestion of waste materials"],
+        "answer": "Modifying and packaging proteins"
+},{
+    "question": "Which structure controls the passage of materials into and out of the nucleus?",
+        "options":["Ribosomes", "Cell membrane", "Nucleolus", "Nuclear membrane"],
+        "answer": "Nuclear membrane"
+},{
+    "question": "Which organelle is involved in detoxification and lipid synthesis?",
+        "options":["Golgi apparatus", "Lysosomes", "Smooth Endoplasmic Reticulum", "Ribosomes"],
+        "answer": "Smooth Endoplasmic Reticulum"
+},{
+    "question": "What is the primary function of ribosomes?",
+        "options":["Protein synthesis", "Lipid synthesis", "ATP production", "Waste removal"],
+        "answer": "Protein synthesis"
+},{
+    "question": "Which organelle contains enzymes for digesting worn-out cell components?",
+        "options":["Mitochondria", "Golgi apparatus", "Lysosomes", "Nucleus"],
+        "answer": "Lysosomes"
+},{
+    "question": "Where are chloroplasts found in plant cells?",
+        "options":["Nucleus", "Cytoplasm", "Cell membrane", "Chloroplasts are not present in plant cells"],
+        "answer": "Cytoplasm"
+},{
+    "question": "What cellular structure is responsible for cellular locomotion in many organisms?",
+        "options":["Golgi apparatus", "Centrioles", "Smooth Endoplasmic Reticulum", "Nucleus"],
+        "answer": "Centrioles"
+},{
+    "question": "What type of tissue covers the surface of leaves and stems?",
+        "options":["Epidermal tissue", "Vascular tissue", "Xylem tissue", "Phloem tissue"],
+        "answer": "Epidermal tissue"
+},{
+    "question": "Which type of muscle tissue is involuntary and found in the walls of hollow organs?",
+        "options":["Cardiac muscle", "Skeletal muscle", "Smooth muscle", "Striated muscle"],
+        "answer": "Smooth muscle"
+},{
+    "question": "Which organ is primarily responsible for filtering blood in the human body?",
+        "options":["Liver", "Kidney", "Heart", "Lungs"],
+        "answer": "Kidney"
+},{
+    "question": "What is the main function of the human heart?",
+        "options":["Digestion", "Respiration", "Circulation", "Excretion"],
+        "answer": "Circulation"
+},{
+    "question": "What is the function of the human eye?",
+        "options":["Hearing", "Sight", "Balance", "Smell"],
+        "answer": "Sight"
+},{
+    "question": "Which organ system is responsible for transporting nutrients and oxygen throughout the body?",
+        "options":["Nervous system", "Respiratory system", "Circulatory system", "Digestive system"],
+        "answer": "Circulatory system"
+},{
+    "question": "What is the primary function of the respiratory system?",
+        "options":["Excretion of waste", "Regulation of body temperature", "Exchange of gases", "Digestion of food"],
+        "answer": "Exchange of gases"
+},{
+    "question": "Which organ system includes the brain and spinal cord?",
+        "options":["Nervous system", "Skeletal system", "Endocrine system", "Immune system"],
+        "answer": "Nervous system"
+},{
+    "question": "Which system is responsible for the breakdown and absorption of nutrients?",
+        "options":["Respiratory system", "Excretory system", "Digestive system", "Reproductive system"],
+        "answer": "Digestive system"
+},{
+    "question": "What is the function of the immune system?",
+        "options":["Transport of oxygen", "Protection against pathogens", "Regulation of body temperature", "Production of hormones"],
+        "answer": "Protection against pathogens"
+},{
+    "question": "What property of the cell membrane allows it to regulate the passage of substances into and out of the cell?",
+        "options":["Rigidity", "Selective permeability", "Transparency", "Elasticity"],
+        "answer": "Selective permeability"
+},{
+    "question": "Which of the following is a function of the cell membrane?",
+        "options":["Protein synthesis", "ATP production", "Cell communication", "Waste digestion"],
+        "answer": "Cell communication"
+},{
+    "question": "What is the process by which molecules move from an area of high concentration to an area of low concentration, without the use of energy?",
+        "options":["Active transport", "Osmosis", "Diffusion", "Endocytosis"],
+        "answer": "Diffusion"
+},{
+    "question": "Which physiological process involves the movement of water across a selectively permeable membrane?",
+        "options":["Diffusion", "Active transport", "Osmosis", "Exocytosis"],
+        "answer": "Osmosis"
+},{
+    "question": "What happens to a plant cell placed in a hypertonic solution?",
+        "options":["It swells", "It undergoes plasmolysis", "It bursts", "It remains unchanged"],
+        "answer": "It undergoes plasmolysis"
+},{
+    "question": "Which physiological process requires energy to move molecules against their concentration gradient?",
+        "options":["Diffusion", "Osmosis", "Facilitated diffusion", "Active transport"],
+        "answer": "Active transport"
+},{
+    "question": "What is the primary role of active transport in cells?",
+        "options":["Maintaining osmotic balance", "Facilitating cell communication", "Generating ATP", "Transporting substances against their concentration gradient"],
+        "answer": "Transporting substances against their concentration gradient"
+},{
+    "question": "In which process do plant cells gain turgor pressure to maintain rigidity?",
+        "options":["Plasmolysis", "Deplasmolysis", "Wilting", "Haemolysis"],
+        "answer": "Deplasmolysis"
+},{
+    "question": "What physiological process occurs when red blood cells are placed in a hypotonic solution?",
+        "options":["Turgor pressure", "Plasmolysis", "Crenation", "Haemolysis"],
+        "answer": "Haemolysis"
+},{
+    "question": "What is the primary purpose of nutrition in living organisms?",
+        "options":["Growth and development", "ATP production", "Regulation of body temperature", "Cell communication"],
+        "answer": "Growth and development"
+},{
+    "question": "Which mode of feeding involves organisms that produce their own food using sunlight?",
+        "options":["Heterotrophism", "Carnivory", "Autotrophism", "Parasitism"],
+        "answer": "Autotrophism"
+},{
+    "question": "What is the process by which autotrophs convert sunlight into chemical energy?",
+        "options":["Chemosynthesis", "Respiration", "Photosynthesis", "Osmosis"],
+        "answer": "Photosynthesis"
+},{
+    "question": "Where does photosynthesis primarily occur in plant cells?",
+        "options":["Mitochondria", "Nucleus", "Chloroplasts", "Golgi apparatus"],
+        "answer": "Chloroplasts"
+},{
+    "question": "What are the requirements for photosynthesis to occur?",
+        "options":["Carbon dioxide and water", "Oxygen and glucose", "Chlorophyll and sunlight", "Starch and lipids"],
+        "answer": "Carbon dioxide and water"
+},{
+    "question": "During which stage of photosynthesis is oxygen released as a byproduct?",
+        "options":["Light-dependent stage", "Light-independent (Dark) stage", "Krebs cycle", "Glycolysis"],
+        "answer": "Light-dependent stage"
+},{
+    "question": "What factors affect the rate of photosynthesis?",
+        "options":["Light intensity", "Carbon dioxide concentration", "Water availability", "All of the above"],
+        "answer": "All of the above"
+},{
+    "question": "Which part of the leaf regulates gas exchange and water loss?",
+        "options":["Petiole", "Epidermis", "Stomata", "Mesophyll cells"],
+        "answer": "Stomata"
+},{
+    "question": "Which category of chemicals includes glucose, fructose, and galactose?",
+        "options":["Monosaccharides", "Disaccharides", "Polysaccharides", "Proteins"],
+        "answer": "Monosaccharides"
+},{
+    "question": "What is the main function of carbohydrates in living systems?",
+        "options":["Energy storage and structure", "Enzyme regulation", "Genetic information storage", "Cell membrane synthesis"],
+        "answer": "Energy storage and structure"
+},{
+    "question": "Which category of chemicals includes sucrose, lactose, and maltose?",
+        "options":["Monosaccharides", "Disaccharides", "Polysaccharides", "Proteins"],
+        "answer": "Disaccharides"
+},{
+    "question": "What is the function of enzymes in living organisms?",
+        "options":["Energy production", "DNA replication", "Catalyzing biochemical reactions", "Structural support"],
+        "answer": "Catalyzing biochemical reactions"
+},{
+    "question": "What factors influence the action of enzymes?",
+        "options":["Temperature and pH", "Oxygen concentration", "Light intensity", "Water availability"],
+        "answer": "Temperature and pH"
+},{
+    "question": "Which mode of feeding involves animals that consume only plant material?",
+        "options":["Herbivores", "Carnivores", "Omnivores", "Detritivores"],
+        "answer": "Herbivores"
+},{
+    "question": "What type of teeth do herbivores typically have for grinding plant material?",
+        "options":["Incisors and canines", "Canines and molars", "Premolars and molars", "Incisors and molars"],
+        "answer": "Premolars and molars"
+},{
+    "question": "Which digestive gland produces bile to aid in fat digestion?",
+        "options":["Pancreas", "Liver", "Gallbladder", "Salivary glands"],
+        "answer": "Liver"
+},{
+    "question": "What is the primary function of the large intestine in digestion?",
+        "options":["Absorption of nutrients", "Digestion of proteins", "Reabsorption of water", "Production of enzymes"],
+        "answer": "Reabsorption of water"
+},{
+    "question": "Which nutrient category includes vitamins A, C, and D?",
+        "options":["Carbohydrates", "Proteins", "Minerals", "Vitamins"],
+        "answer": "Vitamins"
+},{
+    "question": "What is the role of roughage in the diet?",
+        "options":["Provides essential amino acids", "Facilitates water absorption", "Aids in digestion and prevents constipation", "Supplies energy for cellular activities"],
+        "answer": "Aids in digestion and prevents constipation"
+},{
+    "question": "What determines the energy requirements of an individual?",
+        "options":["Age and gender", "Blood type", "Hair color", "Shoe size"],
+        "answer": "Age and gender"
+},{
+    "question": "What force primarily drives water movement from roots to leaves in plants?",
+        "options":["Osmosis", "Capillary action", "Transpiration pull", "Active transport"],
+        "answer": "Transpiration pull"
+},{
+    "question": "Which of the following is responsible for the movement of sugars from leaves to other parts of the plant?",
+        "options":["Phloem", "Epidermis", "Stomata", "Cortex"],
+        "answer": "Phloem"
+},{
+    "question": "What is the process by which water exits the plant through specialized pores in leaves?",
+        "options":["Photosynthesis", "Transpiration", "Osmosis", "Capillary action"],
+        "answer": "Transpiration"
+},{
+    "question": "Which part of the plant regulates the opening and closing of stomata?",
+        "options":["Xylem vessels", "Root hairs", "Guard cells", "Cortex"],
+        "answer": "Guard cells"
+},{
+    "question": "What is the movement of nutrients from phloem to cells requiring sugars called?",
+        "options":["Transpiration", "Translocation", "Osmosis", "Capillary action"],
+        "answer": "Translocation"
+},{
+    "question": "What is the main component of xylem tissue that provides structural support to plants?",
+        "options":["Sieve tubes", "Companion cells", "Vessels", "Fibers"],
+        "answer": "Vessels"
+},{
+    "question": "Which environmental factor affects the rate of transpiration in plants?",
+        "options":["Carbon dioxide concentration", "Temperature", "Soil pH", "Root pressure"],
+        "answer": "Temperature"
+},{
+    "question": "What is the process by which water and dissolved substances move across a plant's root cells into the xylem?",
+        "options":["Transpiration", "Translocation", "Osmosis", "Root pressure"],
+        "answer": "Root pressure"
+},{
+    "question": "Which structure in roots enhances the surface area for water and mineral absorption?",
+        "options":["Root cap", "Cortex", "Xylem vessels", "Root hairs"],
+        "answer": "Root hairs"
 }
 ]
